@@ -1,5 +1,8 @@
 //Javascript //
 
+
+//Every other GIF works when you click on it, and not sure why but the GIFs have a crazy width, tried messing with it but the GIFS only seem like
+// an "ok" width when responsive.
 // Topics //
 var topics = ["Jurassic Park", "Rush Hour", "Mrs. Doubtfire", "Shawshank Redemption", "Forrest Gump", "Sixth Sense", "Silence of the Lambs",
   "Green Mile", "Home Alone", "Dumb and Dumber"
